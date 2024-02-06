@@ -1,0 +1,150 @@
+    voiceErrorLogs: {
+      id: '1188538951343018066',
+      token: '0VZobrFgA84T1GDSkDhLSc0i_uA5pYKwLRrcvMpgVuSZ2rzOsIMd2NkrAWUvXpUtxFkW'
+    },
+    creditLogs: {
+      id: '1188538951343018066',
+      token: '0VZobrFgA84T1GDSkDhLSc0i_uA5pYKwLRrcvMpgVuSZ2rzOsIMd2NkrAWUvXpUtxFkW'
+    },
+    evalLogs: {
+      id: '1188538951343018066',
+      token: '0VZobrFgA84T1GDSkDhLSc0i_uA5pYKwLRrcvMpgVuSZ2rzOsIMd2NkrAWUvXpUtxFkW'
+    },
+    interactionLogs: {
+      id: '1188538951343018066',
+      token: '0VZobrFgA84T1GDSkDhLSc0i_uA5pYKwLRrcvMpgVuSZ2rzOsIMd2NkrAWUvXpUtxFkW'
+    },
+    bugReportLogs: { id: '', token: '' }
+  },
+  commands: Collection(47) [Map] {
+    'activities' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'afk' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'announcement' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'automod' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'autosetup' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'birthdays' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'bot' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'casino' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'custom-commands' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'config' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'developers' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'economy' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'embed' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'family' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'fun' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'games' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'giveaway' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'guild' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'help' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'images' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'invite' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'invites' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'levels' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'message' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'messages' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'moderation' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'music' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'notepad' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'profile' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'radio' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'reactionroles' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'report' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'search' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'serverstats' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'setup' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'soundboard' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'stickymessages' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'suggestions' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'thanks' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'tickets' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'tools' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'voice' => { data: [SlashCommandBuilder], run: [AsyncFunction: run] },
+    'Bot profile' => { data: [ContextMenuCommandBuilder], run: [AsyncFunction: run] },
+    'Unwarn' => { data: [ContextMenuCommandBuilder], run: [AsyncFunction: run] },
+    'Userinfo' => { data: [ContextMenuCommandBuilder], run: [AsyncFunction: run] },
+    'Warn' => { data: [ContextMenuCommandBuilder], run: [AsyncFunction: run] },
+    'Warnings' => { data: [ContextMenuCommandBuilder], run: [AsyncFunction: run] }
+  },
+  playerManager: Map(0) {},
+  triviaManager: Map(0) {},
+  queue: Map(0) {},
+  startStream: [AsyncFunction (anonymous)],
+  connectToChannel: [AsyncFunction (anonymous)],
+  radioStart: [AsyncFunction (anonymous)],
+  radioStop: [AsyncFunction (anonymous)],
+  buttonReactions: [AsyncFunction (anonymous)],
+  getLogs: [AsyncFunction (anonymous)],
+  templateEmbed: [Function (anonymous)],
+  errNormal: [AsyncFunction (anonymous)],
+  errUsage: [AsyncFunction (anonymous)],
+  errMissingPerms: [AsyncFunction (anonymous)],
+  errNoPerms: [AsyncFunction (anonymous)],
+  errWait: [AsyncFunction (anonymous)],
+  succNormal: [AsyncFunction (anonymous)],
+  embed: [AsyncFunction (anonymous)],
+  simpleEmbed: [AsyncFunction (anonymous)],
+  sendEmbed: [AsyncFunction (anonymous)],
+  generateSelect: [AsyncFunction (anonymous)],
+  createChannelSetup: [AsyncFunction (anonymous)],
+  createRoleSetup: [AsyncFunction (anonymous)],
+  bitfieldToName: [Function (anonymous)],
+  checkPerms: [AsyncFunction (anonymous)],
+  checkBotPerms: [AsyncFunction (anonymous)],
+  checkUserPerms: [AsyncFunction (anonymous)],
+  getChannel: [Function (anonymous)],
+  removeMentions: [Function (anonymous)],
+  loadSubcommands: [AsyncFunction (anonymous)],
+  checkVoice: [AsyncFunction (anonymous)],
+  generateEmbed: [AsyncFunction (anonymous)],
+  createLeaderboard: [AsyncFunction (anonymous)],
+  generateActivity: [Function (anonymous)],
+  giveawaysManager: GiveawayManagerWithOwnDatabase {
+    _events: [Object: null prototype] {
+      endedGiveawayReactionAdded: [Function: bound ],
+      giveawayEnded: [Function: bound ],
+      giveawayReactionAdded: [Function: bound ],
+      giveawayRerolled: [Function: bound ]
+    },
+    _eventsCount: 4,
+    _maxListeners: 0,
+    client: [Circular *1],
+    ready: true,
+    giveaways: [],
+    options: {
+      storage: './giveaways.json',
+      forceUpdateEvery: null,
+      endedGiveawaysLifetime: null,
+      default: [Object]
+    },
+    [Symbol(kCapture)]: false
+  },
+  getTemplate: [AsyncFunction (anonymous)],
+  soundboard: [AsyncFunction (anonymous)],
+  play: [AsyncFunction (anonymous)],
+  getTicketData: [AsyncFunction (anonymous)],
+  getChannelTicket: [AsyncFunction (anonymous)],
+  isTicket: [AsyncFunction (anonymous)],
+  transcript: [AsyncFunction (anonymous)],
+  addMoney: [AsyncFunction (anonymous)],
+  removeMoney: [AsyncFunction (anonymous)],
+  buyItem: [AsyncFunction (anonymous)],
+  setXP: [AsyncFunction (anonymous)],
+  setLevel: [AsyncFunction (anonymous)],
+  addXP: [AsyncFunction (anonymous)],
+  addLevel: [AsyncFunction (anonymous)],
+  fetchLevels: [AsyncFunction (anonymous)],
+  xpFor: [Function (anonymous)],
+  [Symbol(kCapture)]: false
+}
+MongooseError: Model.findOne() no longer accepts a callback
+    at Function.findOne (/home/container/node_modules/mongoose/lib/model.js:2297:11)
+    at Client.<anonymous> (/home/container/src/handlers/security/antispam.js:14:16)
+    at Client.emit (node:events:539:35)
+    at MessageCreateAction.handle (/home/container/node_modules/discord.js/src/client/actions/MessageCreate.js:28:14)
+    at Object.module.exports [as MESSAGE_CREATE] (/home/container/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/container/node_modules/discord.js/src/client/websocket/WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (/home/container/node_modules/discord.js/src/client/websocket/WebSocketManager.js:239:12)
+    at WebSocketManager.emit (/home/container/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:282:31)
+    at WebSocketShard.<anonymous> (/home/container/node_modules/@discordjs/ws/dist/index.js:1173:51)
+    at WebSocketShard.emit (/home/container/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:282:31)
+System >> Lavalink connected!
