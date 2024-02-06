@@ -82,13 +82,24 @@ If you have any comments, please contact us using the `/bot feedback feedback:` 
 ## 🔗 Links
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/osiem_00)
+### Official Bot Up-To-Date status.
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10xxv.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+### Official Bot Links
+[![Discord server](https://img.shields.io/badge/Add_me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1199765183313231912&permissions=8&response_type=code&redirect_uri=http%3A%2F%2F45.90.13.219%3A6673&scope=identify+bot)
+
+
+[![Discord server](https://img.shields.io/badge/our_server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h8Pbwgh7Eg)
 ## 🛠 Skills
 
 
-![js](https://camo.githubusercontent.com/0dc176976add53c960306227f875bdeb8b1f77a5db6b9fc8c86e227fce652c31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) ![nodejs](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465) ![css](https://camo.githubusercontent.com/82a27b02a3817d130c2c07c5c611bd0efeb852786b829db07cd4b42aa021407f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) ![HTML5](https://camo.githubusercontent.com/819068798393631dfa06d6ba12a235382f6f009675d30a527a6be7f6ba73558b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 
-### Im using ![mongodb](https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465) database :)
-![Logo](https://cdn.discordapp.com/attachments/1180296398130925694/1189216542538338375/naha.png?ex=659d5b36&is=658ae636&hm=a966192f31d97f87957630b8df33cad932ff6bb92360ff6c004252b2e99bda0f&)
+[![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() [![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+
+### Im using [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit)]() database :)
+[![Logo](https://cdn.discordapp.com/attachments/1180296398130925694/1189216542538338375/naha.png?ex=659d5b36&is=658ae636&hm=a966192f31d97f87957630b8df33cad932ff6bb92360ff6c004252b2e99bda0f&)]()
+
+
+
 
 
 ## Run Locally
